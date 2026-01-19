@@ -31,16 +31,6 @@
 
 ---
 
-## 🌐 Public Deployment
-
-- To publish publicly on the Chrome Web Store:
-  1. Zip the `TrafficTube/` folder.
-  2. Create a developer account on Chrome Web Store (one-time $5 fee).
-  3. Upload the zip and submit for review.
-- Once approved, it will be available for everyone.
-
----
-
 ## 📝 Notes
 
 - Scores are **approximate** and based on engagement & quality indicators.  
@@ -59,4 +49,5 @@
 ---
 
 **Enjoy TrafficTube and see which videos are real Driver Budgies! 🐦**
+
 
