@@ -21,6 +21,12 @@
 - Works **dynamically** on YouTube SPA pages (score updates when you change videos)  
 - Minimalistic, **non-intrusive** design
 
+<img width="231" height="51" alt="image" src="https://github.com/user-attachments/assets/1b2fa95a-d8a6-4e23-bdd5-ae94b19cf242" />
+
+<img width="201" height="27" alt="image" src="https://github.com/user-attachments/assets/8c329c45-5694-4aa2-aaa2-216dcd7cd84f" />
+
+
+
 ---
 
 ---
@@ -53,3 +59,4 @@
 ---
 
 **Enjoy TrafficTube and see which videos are real Driver Budgies! 🐦**
+
